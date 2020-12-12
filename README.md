@@ -1,3 +1,8 @@
+https://sanjothebay.github.io/GreatBayApp/
+
+https://github.com/sanjothebay/GreatBayApp
+
+
 **Instructions**
 
 * Within your groups you are going to be creating a Node application called "Great-Bay" which allows users to create and bid on assorted items, tasks, jobs, or projects.
